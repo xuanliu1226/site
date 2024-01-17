@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh_CN'
+title = '蘑菇蹲'
+theme = 'PaperMod'
