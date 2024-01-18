@@ -1,0 +1,50 @@
+baseURL: "https://qtdot.github.io/blog_personal/"
+title: 蘑菇蹲
+languageCode: zh-CN
+paginate: 5
+theme: PaperMod
+
+params:
+    homeInfoParams:
+        Title: 蘑菇蹲
+        Content: 日常生活，无端咆哮和浴室奇思
+    # socialIcons: # optional
+    #     - name: mastodon
+    #       url: "https://m.cmx.im/@qwqky"
+
+    ShowShareButtons: false
+    ShowReadingTime: true
+    ShowWordCount: true
+    ShowToc: true
+    ShowPostNavLinks: true
+
+    author: "煎蛋"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives
+      weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 40
+    # - identifier: about
+    #   name: About
+    #   url: /about
+    #   weight: 50

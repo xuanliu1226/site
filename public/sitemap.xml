@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://qtdot.github.io/posts/</loc>
     <lastmod>2024-01-16T21:37:06-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/test-post/</loc>
+    <loc>https://qtdot.github.io/tags/</loc>
     <lastmod>2024-01-16T21:37:06-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://qtdot.github.io/tags/test/</loc>
     <lastmod>2024-01-16T21:37:06-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://qtdot.github.io/posts/test-post/</loc>
+    <lastmod>2024-01-16T21:37:06-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://qtdot.github.io/</loc>
+    <lastmod>2024-01-16T21:37:06-05:00</lastmod>
+  </url><url>
+    <loc>https://qtdot.github.io/about/</loc>
+  </url><url>
+    <loc>https://qtdot.github.io/archives/</loc>
+  </url><url>
+    <loc>https://qtdot.github.io/categories/</loc>
+  </url><url>
+    <loc>https://qtdot.github.io/search/</loc>
   </url>
 </urlset>
