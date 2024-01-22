@@ -16,5 +16,5 @@ Comments: false
 
 - [Shiori ʕ•ᴥ•ʔ](https://shioriblog.github.io/)
 
-![picnic](/images/jennie-clavel-unsplash.jpg#center)
+![picnic](/blog/images/jennie-clavel-unsplash.jpg#center)
 > Photo by [Jennie Clavel](https://unsplash.com/@ohpeach_33) on [Unsplash](https://unsplash.com/photos/white-orange-and-black-textile-G0zoYDFvUXQ)

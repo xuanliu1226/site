@@ -27,5 +27,5 @@ Comments: false
 - 调整文章目录样式
 
 
-![mushrooms](/images/james-jeon-unsplash.jpeg)
+![mushrooms](/blog/images/james-jeon-unsplash.jpeg)
 > Photo by [james jeon](https://unsplash.com/@jameszeon) on [Unsplash](https://unsplash.com/photos/pink-flower-on-brown-tree-branch-9i5YiOAekS0)
