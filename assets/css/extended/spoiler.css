@@ -1,0 +1,8 @@
+.spoiler {
+  background-color: var(--primary);
+  color: var(--primary); 
+}
+
+span.spoiler:hover,span.spoiler:active {
+    color: var(--theme);
+}

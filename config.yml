@@ -9,19 +9,24 @@ hasCJKLanguage: true
 params:
     homeInfoParams:
         Title: 蘑菇蹲
-        Content: 日常生活，无端咆哮和浴室奇思
-    # socialIcons: # optional
-    #     - name: mastodon
-    #       url: "https://m.cmx.im/@qwqky"
+        Content: 生活日常，无端咆哮和浴室偶思
+    socialIcons: # optional
+        - name: mastodon
+          url: "https://m.cmx.im/@qwqky"
+        - name: RSS
+          url: "https://qtdot.github.io/blog/index.xml"
 
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: false
     ShowWordCount: true
     ShowToc: true
     ShowPostNavLinks: true
+    ShowComments: true
 
     author: "煎蛋"
 
+    comments: true
+    
 outputs:
     home:
         - HTML
@@ -31,22 +36,22 @@ outputs:
 menu:
   main:
     - identifier: archives
-      name: Archives
+      name: 归档
       url: /archives
       weight: 10
     - identifier: search
-      name: Search
+      name: 搜索
       url: /search/
       weight: 20
     - identifier: categories
-      name: Categories
+      name: 分类
       url: /categories
       weight: 30
     - identifier: tags
-      name: Tags
+      name: 标签
       url: /tags
       weight: 40
-    # - identifier: about
-    #   name: About
-    #   url: /about
-    #   weight: 50
+    - identifier: about
+      name: 关于我
+      url: /about
+      weight: 50

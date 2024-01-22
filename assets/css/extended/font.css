@@ -1,0 +1,34 @@
+body {
+	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Noto Serif SC', serif;	
+	font-size: 16px; 
+}
+
+.post-title {
+	font-size: 1.6em;
+}
+.post-content h1 {
+	margin: 40px auto 32px;
+	font-size: 1.6em;
+}
+
+.post-content h2 {
+	margin: 32px auto 24px;
+	font-size: 1.2em;
+}
+
+.post-content h3 {
+	font-size: 1.125em;
+}
+
+.post-content h4 {
+	font-size: 1.05em;
+}
+
+.post-content h5 {
+	font-size: 1em;
+}
+
+.post-content h6 {
+	font-size: 0.9em;
+}
