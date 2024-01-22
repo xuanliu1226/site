@@ -13,6 +13,8 @@ params:
     socialIcons: # optional
         - name: mastodon
           url: "https://m.cmx.im/@qwqky"
+        - name: email
+          url: "mailto:qtdotblog@duck.com"
         - name: RSS
           url: "https://qtdot.github.io/blog/index.xml"
 

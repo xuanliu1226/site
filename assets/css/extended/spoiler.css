@@ -1,6 +1,5 @@
 .spoiler {
-  background-color: var(--primary);
-  color: var(--primary); 
+  background-color: var(--content);
 }
 
 span.spoiler:hover,span.spoiler:active {
