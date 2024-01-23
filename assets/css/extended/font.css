@@ -4,9 +4,10 @@ body {
 	font-size: 16px; 
 }
 
-.post-title {
+.post-title, .page-header h1 {
 	font-size: 1.6em;
 }
+
 .post-content h1 {
 	margin: 40px auto 32px;
 	font-size: 1.6em;
@@ -17,18 +18,23 @@ body {
 	font-size: 1.2em;
 }
 
-.post-content h3 {
+.post-content h3, h3 {
 	font-size: 1.125em;
 }
 
-.post-content h4 {
+.post-content h4, h4 {
 	font-size: 1.05em;
 }
 
-.post-content h5 {
+.post-content h5, h5 {
 	font-size: 1em;
 }
 
-.post-content h6 {
+.post-content h6, h6 {
 	font-size: 0.9em;
+}
+
+h2 {
+	font-size: 1.2em;
+
 }

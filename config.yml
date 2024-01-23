@@ -1,4 +1,4 @@
-baseURL: https://qtdot.github.io/
+baseURL: https://qtdot.github.io/blog/
 title: 蘑菇蹲
 languageCode: zh-cn
 paginate: 5
@@ -23,7 +23,7 @@ params:
     ShowWordCount: true
     ShowToc: true
     ShowPostNavLinks: true
-    ShowComments: true
+    ShowCodeCopyButtons: true
 
     author: "煎蛋"
 
@@ -53,11 +53,11 @@ menu:
       name: 标签
       url: /tags
       weight: 40
-    - identifier: about
-      name: 关于我
-      url: /about
-      weight: 50
     - identifier: friends
       name: 友链
       url: /friends
+      weight: 50
+    - identifier: about
+      name: 关于我
+      url: /about
       weight: 60
