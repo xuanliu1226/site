@@ -1,7 +1,7 @@
 .spoiler {
-  background-color: var(--content);
+    background-color: var(--content);
 }
 
-span.spoiler:hover,span.spoiler:active {
+span.spoiler:hover, span.spoiler:active {
     color: var(--theme);
 }

@@ -19,13 +19,14 @@ Comments: false
 
 ---
 
-[2024-01-20] 博客缓慢装修中，欢迎各位交换友链！
+## 更新日志
+[2024-01-25] 留言板部署到了Vercel，可以正常注册登录了。  
+[2024-01-20] 博客上线，缓慢装修中，欢迎各位交换友链！
 
-计划装修内容：
-- 留言板自定义设置（默认显示的信息也太多了，不安です）
-- 分类页和标签页放到一起
+### 计划装修内容
+- 合并分类页和标签页
 - 调整文章目录样式
 
 
-![mushrooms](/blog/images/james-jeon-unsplash.jpeg)
-> Photo by [james jeon](https://unsplash.com/@jameszeon) on [Unsplash](https://unsplash.com/photos/pink-flower-on-brown-tree-branch-9i5YiOAekS0)
+![mushrooms](/blog/images/jesse-bauer-unsplash.jpeg)
+> Photo by [Jesse Bauer](https://unsplash.com/@jessebauer) on [Unsplash](https://unsplash.com/photos/white-and-brown-mushrooms-on-green-grass-during-daytime-7w4lNt7lJb4)

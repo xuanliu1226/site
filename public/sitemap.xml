@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qtdot.github.io/categories/</loc>
+    <loc>https://qtdot.github.io/blog/posts/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qtdot.github.io/posts/</loc>
+    <loc>https://qtdot.github.io/blog/tags/%E4%B9%A6/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qtdot.github.io/tags/</loc>
+    <loc>https://qtdot.github.io/blog/categories/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qtdot.github.io/posts/detective-fiction-jan2024/</loc>
+    <loc>https://qtdot.github.io/blog/posts/detective-fiction-jan2024/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qtdot.github.io/tags/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/</loc>
+    <loc>https://qtdot.github.io/blog/tags/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qtdot.github.io/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://qtdot.github.io/blog/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qtdot.github.io/</loc>
+    <loc>https://qtdot.github.io/blog/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qtdot.github.io/about/</loc>
+    <loc>https://qtdot.github.io/blog/about/</loc>
   </url><url>
-    <loc>https://qtdot.github.io/friends/</loc>
+    <loc>https://qtdot.github.io/blog/friends/</loc>
   </url><url>
-    <loc>https://qtdot.github.io/archives/</loc>
+    <loc>https://qtdot.github.io/blog/archives/</loc>
   </url><url>
-    <loc>https://qtdot.github.io/search/</loc>
+    <loc>https://qtdot.github.io/blog/search/</loc>
   </url>
 </urlset>

@@ -4,11 +4,26 @@
     href="https://unpkg.com/@waline/client@v2/dist/waline.css"
   />
   <style>
+/* change theme color  */
     :root {
-        --waline-theme-color: DarkSlateGray;
-        --waline-active-color: DarkSeaGreen;
+      --waline-theme-color: DarkSlateGray;
+      --waline-active-color: DarkSeaGreen;
 
-        --waline-badge-color: CadetBlue;
+      --waline-badge-color: CadetBlue;
+    }
+
+/* emoji scaling */
+    .wl-emoji {
+      transform-origin: center;
+      transition: 150ms ease-out;
+    }
+
+    .wl-emoji:hover {
+      transform: scale(2);
+    }
+
+    .wl-tab .wl-emoji:hover {
+      transform: unset;
     }
   </style>
 </head>
@@ -21,18 +36,19 @@
 
     init({
       el: '#waline',
-      serverURL: 'https://dainty-blini-35725e.netlify.app/.netlify/functions/comment',
+      serverURL: 'https://waline-steel-mu.vercel.app/',
       emoji: [
+        'https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs', 
         'https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/'],
       search: false,    // GIF 表情包
       reaction: false,  // 文章反应
       requiredMeta: ['nick'],
       pageSize: 10,
-      imageUploader: false,
+      imageUploader: true,
       copyright: true,
       pageview: true,
       like: true,
-      avatar: 'retro',
+      avatar: 'monsterid',
     });
   </script>
 </body>    

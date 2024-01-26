@@ -15,7 +15,7 @@ body {
 
 .post-content h2 {
 	margin: 32px auto 24px;
-	font-size: 1.2em;
+	font-size: 1.25em;
 }
 
 .post-content h3, h3 {
@@ -35,6 +35,14 @@ body {
 }
 
 h2 {
-	font-size: 1.2em;
+	font-size: 1.25em;
+}
 
+/*Change title color*/
+:root {
+	--primary: DarkSlateGray;
+}
+
+.dark {
+	--primary: DarkSeaGreen;
 }
