@@ -10,7 +10,7 @@ ShowToc: false
 ShowPostNavLinks: false
 
 hideAuthor: true
-Comments: false
+Comments: true
 
 ---
 

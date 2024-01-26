@@ -56,7 +56,9 @@
     </style>
 </noscript><style>
   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&family=Noto+Serif+SC:wght@300;400;500;600;700&display=swap');
-</style><meta property="og:title" content="关于我" />
+</style>
+
+<script defer src="https://us.umami.is/script.js" data-website-id="785d194d-b4f5-4f60-b153-0fef1d7c8837"></script><meta property="og:title" content="关于我" />
 <meta property="og:description" content="这里是煎蛋，在互联网的其他地方也叫特小熊猫、困师傅，可能还有更多已经想不起来的赛博分身。 在这里放一些不写下来就会在脑海角落长蘑菇的东西。 更新" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://qtdot.github.io/blog/about/" /><meta property="article:section" content="" />
@@ -225,7 +227,61 @@
   <footer class="post-footer">
     <ul class="post-tags">
     </ul>
-  </footer>
+  </footer><head>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+  />
+  <style>
+ 
+    :root {
+      --waline-theme-color: DarkSlateGray;
+      --waline-active-color: DarkSeaGreen;
+
+      --waline-badge-color: CadetBlue;
+    }
+
+ 
+    .wl-emoji {
+      transform-origin: center;
+      transition: 150ms ease-out;
+    }
+
+    .wl-emoji:hover {
+      transform: scale(2);
+    }
+
+    .wl-tab .wl-emoji:hover {
+      transform: unset;
+    }
+  </style>
+</head>
+
+<body>
+  
+  <div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+
+    init({
+      el: '#waline',
+      serverURL: 'https://waline-steel-mu.vercel.app/',
+      emoji: [
+        'https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs', 
+        'https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/'],
+      search: false,    
+      reaction: false,  
+      requiredMeta: ['nick'],
+      pageSize: 10,
+      imageUploader: true,
+      copyright: true,
+      pageview: true,
+      like: true,
+      avatar: 'monsterid',
+    });
+  </script>
+</body>    
+
 </article>
     </main>
     
