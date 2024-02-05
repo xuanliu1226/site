@@ -25,8 +25,9 @@ Comments: true
 
 ### 计划装修内容
 - 合并分类页和标签页
-- 调整文章目录样式
+- 调整文章目录样式  
+（PaperMod主题下好像有点难，最近应该都不会改了）
 
 
-![mushrooms](/blog/images/jesse-bauer-unsplash.jpeg)
+![mushrooms](/blog/images/jesse-bauer-unsplash.jpg#center)
 > Photo by [Jesse Bauer](https://unsplash.com/@jessebauer) on [Unsplash](https://unsplash.com/photos/white-and-brown-mushrooms-on-green-grass-during-daytime-7w4lNt7lJb4)

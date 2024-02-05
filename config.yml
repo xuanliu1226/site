@@ -1,6 +1,6 @@
 baseURL: https://qtdot.github.io/blog/
 title: 蘑菇蹲
-languageCode: zh-cn
+defaultContentLanguage: zh
 paginate: 5
 theme: PaperMod
 
