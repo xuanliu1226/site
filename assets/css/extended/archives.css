@@ -1,0 +1,9 @@
+.terms-tags-tag li{
+/*	tag style in archive page */
+	display: inline-block;
+	margin: 5px;
+}
+
+.archive-year {
+	margin-top: 24px;
+}
