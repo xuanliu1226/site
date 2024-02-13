@@ -10,7 +10,7 @@ Parameters:
 <center>
     <iframe src="https://open.spotify.com/embed/{{ .Get "type" }}/{{ .Get "id" }}"
     width="{{ default "100%" (.Get "width") }}"
-    height="{{ default "250" (.Get "height") }}"
+    height="{{ default "160px" (.Get "height") }}"
     frameborder="0"
     allowtransparency="true"
     allow="encrypted-media"></iframe>
@@ -19,7 +19,7 @@ Parameters:
 <center>
     <iframe src="https://open.spotify.com/embed/{{ .Get 0 }}/{{ .Get 1 }}"
     width="{{ default "100%" (.Get 2) }}"
-    height="{{ default "250" (.Get 3) }}"
+    height="{{ default "160px" (.Get 3) }}"
     frameborder="0"
     allowtransparency="true"
     allow="encrypted-media"></iframe>
