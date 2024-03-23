@@ -6,6 +6,23 @@ theme: PaperMod
 
 hasCJKLanguage: true
 
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+          - - $
+            - $        
+        enable: true
+
 params:
     homeInfoParams:
         Title: 蘑菇蹲
@@ -28,6 +45,8 @@ params:
     author: "煎蛋"
 
     comments: true
+    
+    # math: true
     
 outputs:
     home:
