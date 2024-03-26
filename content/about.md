@@ -12,6 +12,8 @@ ShowPostNavLinks: false
 hideAuthor: true
 Comments: true
 
+math:false
+
 ---
 
 这里是煎蛋，在互联网的其他地方也叫特小熊猫、困师傅，可能还有更多已经想不起来的赛博分身。
