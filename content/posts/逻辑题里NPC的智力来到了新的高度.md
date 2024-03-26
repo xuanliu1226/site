@@ -19,7 +19,7 @@ math: true
 
 存在能让 99 个人在没有额外信息的情况下猜对箱子里的数的策略实在非常神奇，神奇到我很快放弃了思考。搜索了一圈只发现了一份[四十九页的围绕这个问题的讲义](https://www.annamgrim.com/Infinity.pdf)。好在实际这个问题的解答只有几页，其他都是背景科普，于是拉了一位比较熟悉这套数学黑话的朋友翻译了一下。更神奇了。
 
-{{< collapse summary="试图用刚学的黑话复述一下解法" openByDefault=true >}}
+{{< collapse summary="试图用刚学的黑话复述一下解法：" openByDefault=true >}}
 
 策略中要用到以下结论：
 对于所有实数列组成的集合，我们可以定义这样一个[等价关系](https://zh.wikipedia.org/wiki/%E7%AD%89%E4%BB%B7%E5%85%B3%E7%B3%BB)：如果对于足够大的整数 $n$，我们都有 $x_n = y_n$，那我们说实数列 $x, y$ 等价。
