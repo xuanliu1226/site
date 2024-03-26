@@ -1,5 +1,5 @@
 ---
-title: "搜索" # in any language you want
+title: "搜索" 
 layout: "search" # is necessary
 # url: "/archive"
 # description: "Description for Search"
