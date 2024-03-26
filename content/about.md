@@ -12,7 +12,7 @@ ShowPostNavLinks: false
 hideAuthor: true
 Comments: true
 
-math:false
+math: false
 
 ---
 
