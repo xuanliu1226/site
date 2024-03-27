@@ -1,8 +1,10 @@
 .post-content figure {
-	text-align: center;
+    text-align: center;
 }
 
 .post-content img {
-	margin-left: auto;
-	margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px; /* Set the desired width or use a percentage */
+    height: auto; /* This ensures the image maintains its aspect ratio */
 }

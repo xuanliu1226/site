@@ -1,0 +1,23 @@
+baseURL = 'https://xuanliu1226.github.io/site/'
+languageCode = 'en-us'
+title = '🐱'
+paginate = 5
+theme = 'PaperMod'
+publishDir = 'docs'
+googleAnalytics = "G-NYD9LZH1H5"
+comments = true
+
+
+[params]
+  [params.homeInfoParams]
+    Title = "猫和好天气"
+    Content = """A person striving to live fully | 好好生活 🖤"""
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:xuanliu1226@gmail.com"
+  [[params.socialIcons]]
+    name = "RSS"
+    url= "https://xuanliu1226.github.io/site/"
+  [[params.socialIcons]]
+    name = "Instagram"
+    url= "https://www.instagram.com/coraxuan.l/"
