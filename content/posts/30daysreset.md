@@ -1,5 +1,5 @@
 +++
-title = '30 Days Reset'
+title = '30天变好计划'
 date = 2024-03-24T08:16:07-04:00
 draft = false
 comments = true
